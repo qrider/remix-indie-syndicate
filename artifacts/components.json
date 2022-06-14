@@ -1,0 +1,10 @@
+{
+    "global-navigation": {
+        "scripts": [
+            "common.js","./blah.js"
+        ],
+        "styles": [
+            ".blah.css"
+        ]
+    }
+}
